@@ -17,7 +17,7 @@ dependencies:
   - pip:
     - bitarray
     - datasets
-    - gitpython
+#    - gitpython
     - jupyter
     - jupyterlab
     - ninja
