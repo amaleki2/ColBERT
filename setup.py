@@ -21,8 +21,8 @@ setuptools.setup(
     install_requires=[
         "bitarray",
         "datasets",
-        "flask",
-        "git-python",
+        # "flask",
+        # "git-python",
         "python-dotenv",
         "ninja",
         "scipy",
